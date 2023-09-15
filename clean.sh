@@ -1,6 +1,6 @@
 
 # 在这里输入你的用户名
-username=Makinohara
+username=Mahiru
 
 # 清理 QQ Group2
 rm -rf "C:\\Users\\$username\\Documents\\Tencent Files\\2511134465\\Image\\Group2"
