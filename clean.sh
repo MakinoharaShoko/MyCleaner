@@ -5,6 +5,11 @@ username=Mahiru
 # 清理 QQ Group2
 rm -rf "C:\\Users\\$username\\Documents\\Tencent Files\\2511134465\\Image\\Group2"
 
+# 清理 NT QQ
+rm -rf "C:\\Users\\$username\\Documents\\Tencent Files\\2511134465\\nt_qq\\nt_data\\Pic"
+rm -rf "C:\\Users\\$username\\Documents\\Tencent Files\\2511134465\\nt_qq\\nt_data\\Emoji"
+
+
 # 清理 Yarn 缓存
 rm -rf C:\\Users\\$username\\AppData\\Local\\Yarn\\Cache
 
